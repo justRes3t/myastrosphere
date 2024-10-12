@@ -43,3 +43,4 @@ const legal = defineCollection({
 })
 
 export const collections = { work, blog, projects, legal }
+export const prerender = true;

@@ -72,10 +72,10 @@ export const SOCIALS: Socials = [
     HREF: "https://www.linkedin.com/in/mr-topher/",
   },
   { 
-    NAME: "Twitter",
+    NAME: "BlueSky",
     ICON: "twitter-x",
-    TEXT: "BrxChris",
-    HREF: "https://x.com/BrxChris",
+    TEXT: "Brx-Crisby",
+    HREF: "https://bsky.app/profile/brx-crisby.bsky.social",
   },
 ]
 
